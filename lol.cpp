@@ -4,6 +4,8 @@
 #include <ctype.h>
 #include <limits.h>
 
+#pragma warning(disable : 4996)
+
 #define BOARD_SIZE 8
 #define MAX_MOVES 256
 #define MAX_DEPTH 5
