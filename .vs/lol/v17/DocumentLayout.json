@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Szymon\\source\\repos\\lol\\",
+  "WorkspaceRootPath": "C:\\Users\\Szymon\\source\\repos\\worse_engine\\worse_engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16B26329-0773-410E-8A92-65DEAB6E4C76}|lol.vcxproj|C:\\Users\\Szymon\\source\\repos\\lol\\lol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{16B26329-0773-410E-8A92-65DEAB6E4C76}|lol.vcxproj|C:\\Users\\Szymon\\source\\repos\\worse_engine\\worse_engine\\lol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{16B26329-0773-410E-8A92-65DEAB6E4C76}|lol.vcxproj|solutionrelative:lol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lol.cpp",
-              "DocumentMoniker": "C:\\Users\\Szymon\\source\\repos\\lol\\lol.cpp",
+              "DocumentMoniker": "C:\\Users\\Szymon\\source\\repos\\worse_engine\\worse_engine\\lol.cpp",
               "RelativeDocumentMoniker": "lol.cpp",
-              "ToolTip": "C:\\Users\\Szymon\\source\\repos\\lol\\lol.cpp",
+              "ToolTip": "C:\\Users\\Szymon\\source\\repos\\worse_engine\\worse_engine\\lol.cpp",
               "RelativeToolTip": "lol.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-05T06:38:28.758Z",
               "EditorCaption": ""
